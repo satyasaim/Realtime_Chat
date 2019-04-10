@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "385563911310",
+    "firebase_url": "https://pushnotificatons-50bbd.firebaseio.com",
+    "project_id": "pushnotificatons-50bbd",
+    "storage_bucket": "pushnotificatons-50bbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385563911310:android:de182e945c0fbfe5",
+        "android_client_info": {
+          "package_name": "com.example.mypushnotificaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385563911310-93sekrm945o9ejgbb976vdopcm35ag47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mypushnotificaton",
+            "certificate_hash": "c85d4a06ebe1c78d8c9d27a40bb7d1d25620b5bc"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHbI6hv-41qv-8v4nKCCaed0RdEYffCCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385563911310-89ph7c9taad60grobb7ogj4j400cgvpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385563911310:android:5132314fcd0861a4",
+        "android_client_info": {
+          "package_name": "com.example.realtime_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385563911310-e231r8c7h3d302krgc0vhjcno2cakhv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtime_chat",
+            "certificate_hash": "3e8a2a956f3f0e3c9f1fb29f34dd97aa88709782"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHbI6hv-41qv-8v4nKCCaed0RdEYffCCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385563911310-89ph7c9taad60grobb7ogj4j400cgvpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
